@@ -2,4 +2,5 @@
 name: hagyeongkim
 age: 25
 grade: senior
-Yes, sir
+Yes, sir  
+Have a good day! 
